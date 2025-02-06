@@ -12,9 +12,9 @@ title                    : "Josh DeOliveira"
 title_separator          : "-"
 name                     : &name "Josh DeOliveira"
 description              : &description "PhD Candidate at WPI"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://deoliveirajoshua.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "deoliveirajoshua/deoliveirajoshua.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Joshua DeOliveira"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio              : "PhD Candidate | Data Science @ WPI"
   location         : "Worcester, MA"
   employer         : "Worcester Polytechnic Institute"
   uri              : # URL
-  email            : "jcdeoliveira@wpi.edu" 
+  email            : "jcdeoliveira@wpi.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "deoliveirajoshua"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
