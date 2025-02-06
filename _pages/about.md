@@ -49,7 +49,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
   </div>
   <div>
     <strong><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26190">HAR-CTGAN: A Mobile Sensor Data Generation Tool for Human Activity Recognition.</a></strong><br>
-   Joshua DeOliveira, <strong>Walter Gerych</strong>, Aruzhan Koshkarova, Elke Rundensteiner, Emmanuel Agu.<br>
+   <strong> Joshua DeOliveira </strong>, Walter Gerych, Aruzhan Koshkarova, Elke Rundensteiner, Emmanuel Agu.<br>
     <strong>IEEE Big Data 4th Special Session on HealthCare Data, 2022.</strong>
   </div>
 </div>
