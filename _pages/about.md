@@ -54,6 +54,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
   </div>
 </div>
 
+---
 
 ## Misc
 In my free time I enjoy cooking, thrifting, weightlifting, and learning new languages.

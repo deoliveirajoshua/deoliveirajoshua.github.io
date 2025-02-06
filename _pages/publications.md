@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
-{% include base_path %}
+<br>
+
+---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
@@ -21,6 +21,8 @@ author_profile: true
     <strong>(To Appear in) AAAI, 2025.</strong>
   </div>
 </div>
+
+---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
@@ -59,6 +61,7 @@ author_profile: true
   </div>
 </div>
 
+---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
@@ -70,6 +73,8 @@ author_profile: true
     <strong>IEEE Big Data 3rd Special Session on HealthCare Data, 2021.</strong>
   </div>
 </div>
+
+---
 
 
 
