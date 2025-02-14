@@ -12,7 +12,18 @@ redirect_from:
 My research is on **Deep Learning Optimization**, with a focus on discovering ways to understand the dynamics of how neural networks learn during training.
 
 ## Bio
-I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab](https://daisy.wpi.edu/), advised by Professor Elke Rundensteiner.
+I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab](https://daisy.wpi.edu/), advised by Professor Elke Rundensteiner. Prior to my PhD, I earned B.S. degrees in computer science and data science at WPI.
+
+
+## Recent News
+
+- **Dec 24**: First author paper on using infinite-width neural net theory for real model training accepted @ AAAI 2025.
+
+- **Oct 24**: First author paper on stabilising generative adversarial networks (GANS) accepted at @ Big Data 2024.
+
+- **July 24**: Coauthored paper on robust anomaly detection @ SIGMOD 2025
+
+- **Sept 23**: Won first place award at the <a href="https://www.challenge.gov/?challenge=appliedaichallengellms&tab=winners">GSA's Applied AI Challenge in LLMS</a> with <a href= "https://www.topologe.com/">Topologe</a> for detecting long-form generated text from blackbox LLMs.
 
 
 ## Select Publications
