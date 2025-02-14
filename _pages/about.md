@@ -17,9 +17,9 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 ## Recent News
 
-- **Dec 24**: First author paper on using infinite-width neural net theory for real model training accepted @ AAAI 2025.
+- **Dec 24**: First author paper on the applicability of theory relating to infinitely-large neural nets for improving real model training accepted @ AAAI 2025.
 
-- **Oct 24**: First author paper on stabilising generative adversarial networks (GANS) accepted at @ Big Data 2024.
+- **Oct 24**: First author paper on stabilizing GANS accepted at @ Big Data 2024.
 
 - **July 24**: Coauthored paper on robust anomaly detection @ SIGMOD 2025
 
