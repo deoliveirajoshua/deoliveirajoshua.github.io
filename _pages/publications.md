@@ -42,7 +42,7 @@ author_profile: true
     <img src="..\images\gan_stabilization.png" alt="Paper Figure" width="300px">
   </div>
   <div>
-    <strong><a href="">GAN Stabilization Under Practical Training Assumptions.</a></strong><br>
+    <strong><a href="https://ieeexplore.ieee.org/document/10825612">GAN Stabilization Under Practical Training Assumptions.</a></strong><br>
    <strong> Joshua DeOliveira </strong>, Walter Gerych, Elke Rundensteiner.<br>
     <strong>IEEE Big Data, 2024.</strong>
   </div>
@@ -55,7 +55,7 @@ author_profile: true
     <img src="..\images\har_ctgan.png" alt="Paper Figure" width="300px">
   </div>
   <div>
-    <strong><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26190">HAR-CTGAN: A Mobile Sensor Data Generation Tool for Human Activity Recognition.</a></strong><br>
+    <strong><a href="https://ieeexplore.ieee.org/document/10020848">HAR-CTGAN: A Mobile Sensor Data Generation Tool for Human Activity Recognition.</a></strong><br>
    <strong> Joshua DeOliveira </strong>, Walter Gerych, Aruzhan Koshkarova, Elke Rundensteiner, Emmanuel Agu.<br>
     <strong>IEEE Big Data 4th Special Session on HealthCare Data, 2022.</strong>
   </div>
@@ -68,7 +68,7 @@ author_profile: true
     <img src="..\images\incomplete_corpus_IEEE_2021.png" alt="Paper Figure" width="300px">
   </div>
   <div>
-    <strong><a href="">GAN for Generating User-Specific Human Activity Data From An Incomplete Training Corpus.</a></strong><br>
+    <strong><a href="https://ieeexplore.ieee.org/document/9671280">GAN for Generating User-Specific Human Activity Data From An Incomplete Training Corpus.</a></strong><br>
    Walter Gerych, Harrison Kim, <strong> Joshua DeOliveira </strong>, MaryClare Martin, Luke Biquichhio, Kavin Chandrasekaran, Abdulaziz Alajaji, Hamid Mansoor, Elke Rundensteiner, Emmanuel Agu.<br>
     <strong>IEEE Big Data 3rd Special Session on HealthCare Data, 2021.</strong>
   </div>
@@ -77,5 +77,16 @@ author_profile: true
 ---
 
 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\har_gan_MIT_URTC.png" alt="Paper Figure" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://ieeexplore.ieee.org/abstract/document/9701617">Human Context Recognition: A Controllable GAN Approach.</a></strong><br>
+   <strong> Joshua DeOliveira </strong>, Harrison Kim, MaryClare Martin, Walter Gerych, Elke Rundensteiner.<br>
+    <strong>IEEE MIT URTC, 2021.</strong>
+  </div>
+</div>
 
+---
 
