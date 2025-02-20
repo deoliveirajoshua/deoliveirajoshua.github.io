@@ -21,7 +21,7 @@ repository               : "deoliveirajoshua/deoliveirajoshua.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_pic.jpeg"
   name             : "Josh DeOliveira"
   pronouns         : #"he/him"
   bio              : "PhD Candidate @ WPI Data Science  DAISY LAB | (He/Him) jcdeoliveira@wpi.edu"
