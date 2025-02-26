@@ -9,4 +9,4 @@ author_profile: true
 
 **I am currently looking for internships in summer 2025!**
 
-<embed src="{{ site.baseurl }}/files/AAAI_25_poster.pdf" width="600" height="600" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/AAAI_25_poster.pdf" width="600" height="400" type='application/pdf'>
