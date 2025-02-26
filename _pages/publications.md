@@ -5,7 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="wordwrap">You can also find a full list of my publications on my <a href="{{site.author.googlescholar}}"> Google Scholar page</a>.</div>
+**I am currently looking for internships in summer 2025!**
+
+<div class="wordwrap">You can also find a full list of my publications on my <a href="{{site.author.googlescholar}}">Google Scholar page</a>.</div>
 
 <br>
 
