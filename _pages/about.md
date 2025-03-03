@@ -20,9 +20,9 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 - **Dec 24**: First author paper on the applicability of theory relating to infinitely-large neural nets for improving real model training accepted @ AAAI 2025.
 
-- **Oct 24**: First author paper on stabilizing GANS accepted at @ Big Data 2024.
+- **Oct 24**: First author paper on stabilizing GANS accepted at @ IEEE Big Data 2024.
 
-- **July 24**: Coauthored paper on robust anomaly detection @ SIGMOD 2025
+- **July 24**: Coauthored paper on robust anomaly detection accepted at @ SIGMOD 2025
 
 - **Sept 23**: Won first place award at the <a href="https://www.challenge.gov/?challenge=appliedaichallengellms&tab=winners">GSA's Applied AI Challenge in LLMS</a> with <a href= "https://www.topologe.com/">Topologe</a> for detecting long-form generated text from blackbox LLMs.
 
@@ -36,7 +36,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
   <div>
     <strong><a href="">The Surprising Effectiveness of Infinite-Width NTKs for Characterizing and Improving Model Training</a></strong><br>
     <strong> Joshua DeOliveira </strong>, Walter Gerych, Elke Rundensteiner.<br>
-    <strong>(To Appear in) AAAI, 2025.</strong>
+    <strong>AAAI, 2025.</strong>
   </div>
 </div>
 
