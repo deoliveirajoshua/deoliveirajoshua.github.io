@@ -20,7 +20,7 @@ I have first-author publications in AAAI and Big Data.
     <img src="..\images\Unity_KDD_2024.png" alt="Paper Figure" width="300px">
   </div>
   <div>
-    <strong><a href="">Agree to Disagree: Robust Anomaly Detection with Noisy Labels</a></strong><br>
+    <strong><a href="https://dl.acm.org/doi/abs/10.1145/3709657">Agree to Disagree: Robust Anomaly Detection with Noisy Labels</a></strong><br>
     Dennis Hoffmann, Peter VanNostrand, Lei Ma, <strong> Joshua DeOliveira </strong>, Lei Cao, Elke Rundensteiner.<br>
     <strong>(To Appear in) SIGMOD, 2025.</strong>
   </div>
@@ -33,7 +33,7 @@ I have first-author publications in AAAI and Big Data.
     <img src="..\images\ntk_aaai_2025.png" alt="Paper Figure" width="300px">
   </div>
   <div>
-    <strong><a href="">The Surprising Effectiveness of Infinite-Width NTKs for Characterizing and Improving Model Training</a></strong><br>
+    <strong><a href="https://ojs.aaai.org/index.php/AAAI/article/view/26190">The Surprising Effectiveness of Infinite-Width NTKs for Characterizing and Improving Model Training</a></strong><br>
     <strong> Joshua DeOliveira </strong>, Walter Gerych, Elke Rundensteiner.<br>
     <strong>AAAI, 2025.</strong>
   </div>
