@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Josh DeOliveira"
+title                    : "Joshua DeOliveira"
 title_separator          : "-"
-name                     : &name "Josh DeOliveira"
+name                     : &name "Joshua DeOliveira"
 description              : &description "PhD Candidate at WPI"
 url                      : https://deoliveirajoshua.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "deoliveirajoshua/deoliveirajoshua.github.io"
 author:
   # Biographic information
   avatar           : "profile_pic.jpeg"
-  name             : "Josh DeOliveira"
+  name             : "Joshua DeOliveira"
   pronouns         : #"he/him"
   bio              : "PhD Candidate @ WPI Data Science  DAISY LAB | (He/Him) jcdeoliveira@wpi.edu"
   location         : #"Worcester, MA"
@@ -85,7 +85,7 @@ publication_category:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
