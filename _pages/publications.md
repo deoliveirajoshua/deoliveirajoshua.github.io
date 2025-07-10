@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-**I am currently looking for internships in summer 2025!**
-
 I have first-author publications in AAAI and Big Data.
 
 <div class="wordwrap">You can also find a full list of my publications on my <a href="{{site.author.googlescholar}}">Google Scholar page</a>.</div>
@@ -22,7 +20,7 @@ I have first-author publications in AAAI and Big Data.
   <div>
     <strong><a href="https://dl.acm.org/doi/abs/10.1145/3709657">Agree to Disagree: Robust Anomaly Detection with Noisy Labels</a></strong><br>
     Dennis Hoffmann, Peter VanNostrand, Lei Ma, <strong> Joshua DeOliveira </strong>, Lei Cao, Elke Rundensteiner.<br>
-    <strong>(To Appear in) SIGMOD, 2025.</strong>
+    <strong> SIGMOD, 2025.</strong>
   </div>
 </div>
 
