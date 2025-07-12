@@ -1,6 +1,7 @@
 ---
 permalink: /
 title: "About me"
+description: "Joshua DeOliveira personal website, PhD candidate at Worcester Polytechnic Institute in the DAISY Lab, research in deep learning optimization."
 author_profile: true
 redirect_from: 
   - /about/

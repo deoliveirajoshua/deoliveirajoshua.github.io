@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: "Publications"
+description: "Joshua DeOliveira publication list of AAAI and Big Data academic papers found on Google Scholar."
 permalink: /publications/
 author_profile: true
 ---
