@@ -4,6 +4,10 @@ title: "Posters"
 description: "Joshua DeOliveira AAAI poster page, PhD candidate at Worcester Polytechnic Institute in the DAISY Lab"
 permalink: /posters/
 author_profile: true
+redirect_from:
+  - /posters
+  - /posters.html
+type: "page"
 ---
 
 {% include base_path %}
