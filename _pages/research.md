@@ -1,10 +1,9 @@
 ---
 layout: archive
 title: "Research"
-description: "Joshua DeOliveira research page and interests in deep learning optimization, neural net training dynamics, and provable guarantees for model training."
+excerpt: "Joshua DeOliveira research page and interests in deep learning optimization, neural net training dynamics, and provable guarantees for model training."
 permalink: /research/
 author_profile: true
-type: "page"
 ---
 
 {% include base_path %}

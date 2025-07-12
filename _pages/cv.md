@@ -1,13 +1,12 @@
 ---
 layout: archive
 title: "CV"
-description: "Joshua DeOliveira resume and CV page, PhD candidate at Worcester Polytechnic Institute in the DAISY Lab, research in deep learning optimization."
+excerpt: "Joshua DeOliveira resume and CV page, PhD candidate at Worcester Polytechnic Institute in the DAISY Lab, research in deep learning optimization."
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
   - /cv.html
-type: "page"
 ---
 
 {% include base_path %}
