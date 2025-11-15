@@ -16,7 +16,20 @@ I have first-author publications in AAAI and Big Data.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\Unity_KDD_2024.png" alt="Paper Figure" width="300px">
+    <img src="..\images\ntk_augmentation_aaai_2026.png" alt="Thumbnail figure for AAAI 2026 Paper" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://deoliveirajoshua.github.io/publications/">Neural Tangent Kernels Under Stochastic Data Augmentation</a></strong><br>
+    <strong> Joshua DeOliveira </strong>, Sajal Chakroborty, Walter Gerych, Elke Rundensteiner.<br>
+    <strong> (To Appear In) AAAI, 2026.</strong>
+  </div>
+</div>
+
+---
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\Unity_KDD_2024.png" alt="Thumbnail figure for SIGMOD 2025 Paper" width="300px">
   </div>
   <div>
     <strong><a href="https://dl.acm.org/doi/abs/10.1145/3709657">Agree to Disagree: Robust Anomaly Detection with Noisy Labels</a></strong><br>
@@ -29,7 +42,7 @@ I have first-author publications in AAAI and Big Data.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\ntk_aaai_2025.png" alt="Paper Figure" width="300px">
+    <img src="..\images\ntk_aaai_2025.png" alt="Thumbnail figure for AAAI 2025 Paper" width="300px">
   </div>
   <div>
     <strong><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33786">The Surprising Effectiveness of Infinite-Width NTKs for Characterizing and Improving Model Training</a></strong><br>
@@ -42,7 +55,7 @@ I have first-author publications in AAAI and Big Data.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\gan_stabilization.png" alt="Paper Figure" width="300px">
+    <img src="..\images\gan_stabilization.png" alt="Thumbnail figure for IEEE Big Data 2024 Paper" width="300px">
   </div>
   <div>
     <strong><a href="https://ieeexplore.ieee.org/document/10825612">GAN Stabilization Under Practical Training Assumptions.</a></strong><br>
@@ -55,7 +68,7 @@ I have first-author publications in AAAI and Big Data.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\har_ctgan.png" alt="Paper Figure" width="300px">
+    <img src="..\images\har_ctgan.png" alt="Thumbnail figure for IEEE Big Data 2022 Paper" width="300px">
   </div>
   <div>
     <strong><a href="https://ieeexplore.ieee.org/document/10020848">HAR-CTGAN: A Mobile Sensor Data Generation Tool for Human Activity Recognition.</a></strong><br>
@@ -68,7 +81,7 @@ I have first-author publications in AAAI and Big Data.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\incomplete_corpus_IEEE_2021.png" alt="Paper Figure" width="300px">
+    <img src="..\images\incomplete_corpus_IEEE_2021.png" alt="Thumbnail figure for IEEE Big Data 2021 Paper" width="300px">
   </div>
   <div>
     <strong><a href="https://ieeexplore.ieee.org/document/9671280">GAN for Generating User-Specific Human Activity Data From An Incomplete Training Corpus.</a></strong><br>
@@ -82,7 +95,7 @@ I have first-author publications in AAAI and Big Data.
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\har_gan_MIT_URTC.png" alt="Paper Figure" width="300px">
+    <img src="..\images\har_gan_MIT_URTC.png" alt="Thumbnail figure for MIT URTC 2021 Paper" width="300px">
   </div>
   <div>
     <strong><a href="https://ieeexplore.ieee.org/abstract/document/9701617">Human Context Recognition: A Controllable GAN Approach.</a></strong><br>

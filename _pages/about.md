@@ -27,10 +27,22 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 
 ## Select Publications
+---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\ntk_aaai_2025.png" alt="Paper Figure" width="300px">
+    <img src="..\images\ntk_augmentation_aaai_2026.png" alt="Thumbnail figure for AAAI 2026 Paper" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://deoliveirajoshua.github.io/publications/">Neural Tangent Kernels Under Stochastic Data Augmentation</a></strong><br>
+    <strong> Joshua DeOliveira </strong>, Sajal Chakroborty, Walter Gerych, Elke Rundensteiner.<br>
+    <strong> (To Appear In) AAAI, 2026.</strong>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\ntk_aaai_2025.png" alt="Thumbnail figure for AAAI 2025 Paper" width="300px">
   </div>
   <div>
     <strong><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33786">The Surprising Effectiveness of Infinite-Width NTKs for Characterizing and Improving Model Training</a></strong><br>
@@ -43,7 +55,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\gan_stabilization.png" alt="Paper Figure" width="300px">
+    <img src="..\images\gan_stabilization.png" alt="Thumbnail figure for IEEE Big Data 2024 Paper" width="300px">
   </div>
   <div>
     <strong><a href="https://ieeexplore.ieee.org/document/10825612">GAN Stabilization Under Practical Training Assumptions.</a></strong><br>
@@ -56,7 +68,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
-    <img src="..\images\har_ctgan.png" alt="Paper Figure" width="300px">
+    <img src="..\images\har_ctgan.png" alt="Thumbnail figure for IEEE Big Data 2022 Paper" width="300px">
   </div>
   <div>
     <strong><a href="https://ieeexplore.ieee.org/document/10020848">HAR-CTGAN: A Mobile Sensor Data Generation Tool for Human Activity Recognition.</a></strong><br>
