@@ -35,7 +35,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
   </div>
   <div>
     <strong><a href="https://deoliveirajoshua.github.io/publications/">Neural Tangent Kernels Under Stochastic Data Augmentation</a></strong><br>
-    <strong> Joshua DeOliveira </strong>, Sajal Chakroborty, Walter Gerych, Elke Rundensteiner.<br>
+    <strong>Joshua DeOliveira</strong>, Sajal Chakroborty, Walter Gerych, Elke Rundensteiner.<br>
     <strong> (To Appear In) AAAI, 2026.</strong>
   </div>
 </div>
@@ -46,7 +46,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
   </div>
   <div>
     <strong><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33786">The Surprising Effectiveness of Infinite-Width NTKs for Characterizing and Improving Model Training</a></strong><br>
-    <strong> Joshua DeOliveira </strong>, Walter Gerych, Elke Rundensteiner.<br>
+    <strong>Joshua DeOliveira</strong>, Walter Gerych, Elke Rundensteiner.<br>
     <strong>AAAI, 2025.</strong>
   </div>
 </div>
@@ -59,7 +59,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
   </div>
   <div>
     <strong><a href="https://ieeexplore.ieee.org/document/10825612">GAN Stabilization Under Practical Training Assumptions.</a></strong><br>
-   <strong> Joshua DeOliveira </strong>, Walter Gerych, Elke Rundensteiner.<br>
+   <strong>Joshua DeOliveira</strong>, Walter Gerych, Elke Rundensteiner.<br>
     <strong>IEEE Big Data, 2024.</strong>
   </div>
 </div>
@@ -72,7 +72,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
   </div>
   <div>
     <strong><a href="https://ieeexplore.ieee.org/document/10020848">HAR-CTGAN: A Mobile Sensor Data Generation Tool for Human Activity Recognition.</a></strong><br>
-   <strong> Joshua DeOliveira </strong>, Walter Gerych, Aruzhan Koshkarova, Elke Rundensteiner, Emmanuel Agu.<br>
+   <strong>Joshua DeOliveira</strong>, Walter Gerych, Aruzhan Koshkarova, Elke Rundensteiner, Emmanuel Agu.<br>
     <strong>IEEE Big Data 4th Special Session on HealthCare Data, 2022.</strong>
   </div>
 </div>
