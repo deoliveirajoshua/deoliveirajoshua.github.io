@@ -17,6 +17,8 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 ## Recent News
 
+- **Nov 25**: First author paper on how NTK-inspired data augmentations can effect neural net training accepted @ AAAI 2026.
+
 - **Dec 24**: First author paper on the applicability of theory relating to infinitely-large neural nets for improving real model training accepted @ AAAI 2025.
 
 - **Oct 24**: First author paper on stabilizing GANS accepted at @ IEEE Big Data 2024.
