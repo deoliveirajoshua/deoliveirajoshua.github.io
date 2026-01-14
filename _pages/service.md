@@ -19,10 +19,14 @@ author_profile: true
  - Mentor undergraduate DS/CS capstone projects 
 
 
-**Volunteer Mentor for *Hack for Human Impact* Event, Massachusetts Technology Collaborative**: 2025 
+**Volunteer Mentor for *Hack for Human Impact* Event, Massachusetts Technology Collaborative**: 2025
+
 **Volunteer Judge for Massachusetts Academy STEM Fair, [MASS Academy](https://www.massacademy.org/)**:  2023 – 2025  
+
 **Volenteer for DS Accepted Student’s Day, WPI**: 2022 - 2023  
-**Led PyTorch Workshop for Undergrads, WPI**: — 2022  
+
+**Led PyTorch Workshop for Undergrads, WPI**:  2022  
+
 **Volenteer for DS Open House, WPI**: 2022
 
 ---
