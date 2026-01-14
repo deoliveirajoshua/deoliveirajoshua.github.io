@@ -25,7 +25,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 - **July 24**: Coauthored paper on robust anomaly detection accepted at @ SIGMOD 2025
 
-- **Sept 23**: Won first place award at the <a href="https://www.challenge.gov/?challenge=appliedaichallengellms&tab=winners">GSA's Applied AI Challenge in LLMS</a> with <a href= "https://www.topologe.com/">Topologe</a> for detecting long-form generated text from blackbox LLMs.
+- **Sept 23**: Won first place award at the <a href="https://www.challenge.gov/?challenge=appliedaichallengellms&tab=winners">US Gov's GSA's Applied AI Challenge in LLMS</a> with <a href= "https://www.topologe.com/">Topologe</a> for detecting long-form generated text from blackbox LLMs.
 
 
 ## Select Publications
