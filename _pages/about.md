@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**I am currently looking for internships in summer 2026!**
+
 ## Research Interests
 My research is on **Deep Learning Optimization**, with a focus on discovering ways to understand the dynamics of how neural networks learn during training.
 
