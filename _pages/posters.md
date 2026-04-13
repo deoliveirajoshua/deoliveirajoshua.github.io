@@ -13,6 +13,15 @@ redirect_from:
 
 **I am currently looking for internships in summer 2026!**
 
+### Publications with posters:
+
 <embed src="{{ site.baseurl }}/files/AAAI_25_poster.pdf" width="600" height="460" type='application/pdf'>
 
 <embed src="{{ site.baseurl }}/files/AAAI_26_poster.pdf" width="600" height="460" type='application/pdf'>
+
+
+### Mentored Undergraduate Capstone Projects:
+
+<embed src="{{ site.baseurl }}/files/MQP_2023_Diffusion_Poster.pdf" width="600" height="460" type='application/pdf'>
+
+
