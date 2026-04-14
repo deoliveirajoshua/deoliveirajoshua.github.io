@@ -17,7 +17,7 @@ author_profile: true
 
 **PhD Mentor, WPI**: 2022-2026
  - Mentor undergraduate Data Science / Computer Science capstone projects
- - Mentor high school students at Massachusetts Academy of Math and Science (Mass Academy) in ML/AI research projects
+ - Mentor high school ML/AI research projects at Massachusetts Academy of Math and Science (Mass Academy) 
 
 
 **Volunteer Mentor for *Hack for Human Impact* Event, Massachusetts Technology Collaborative**: 2025
