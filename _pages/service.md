@@ -16,18 +16,19 @@ author_profile: true
 ## Department Service
 
 **PhD Mentor, WPI**: 2022-2026
- - Mentor undergraduate DS/CS capstone projects 
+ - Mentor undergraduate Data Science / Computer Science capstone projects
+ - Mentor high school students at Mass Academy of Math and Science in machine learning research projects
 
 
 **Volunteer Mentor for *Hack for Human Impact* Event, Massachusetts Technology Collaborative**: 2025
 
 **Volunteer Judge for Massachusetts Academy STEM Fair, [MASS Academy](https://www.massacademy.org/)**:  2023 – 2026 
 
-**Volunteer for DS Accepted Student’s Day, WPI**: 2022 - 2023  
+**Volunteer for Data Science Accepted Student’s Day, WPI**: 2022 - 2023  
 
 **Led PyTorch Workshop for Undergrads, WPI**:  2022  
 
-**Volunteer for DS Open House, WPI**: 2022
+**Volunteer for Data Science Open House, WPI**: 2022
 
 ---
 
