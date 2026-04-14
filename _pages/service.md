@@ -17,12 +17,12 @@ author_profile: true
 
 **PhD Mentor, WPI**: 2022-2026
  - Mentor undergraduate Data Science / Computer Science capstone projects
- - Mentor high school students at Mass Academy of Math and Science in machine learning research projects
+ - Mentor high school students at Mass Academy of Math and Science (Mass Academy) in machine learning research projects
 
 
 **Volunteer Mentor for *Hack for Human Impact* Event, Massachusetts Technology Collaborative**: 2025
 
-**Volunteer Judge for Massachusetts Academy STEM Fair, [MASS Academy](https://www.massacademy.org/)**:  2023 – 2026 
+**Volunteer Judge for Mass Academy STEM Fair, [Mass Academy](https://www.massacademy.org/)**:  2023 – 2026 
 
 **Volunteer for Data Science Accepted Student’s Day, WPI**: 2022 - 2023  
 
