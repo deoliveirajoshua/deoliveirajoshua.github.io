@@ -10,28 +10,28 @@ author_profile: true
 
 ## Journal Reviewership
 
-**Transactions on Machine Learning Research (TMLR)**: 2026--Present
+**TMLR**: 2026--Present
 
 ## Program Committee Member / Conference Reviewer
 
 **AAAI**: Main Track 2025, 2026
 
 **CIKM**: Main Track 2026
-    
+
 ---
 
 ## Department Service
 
-**PhD Mentor, WPI**: 2022-2026
+**PhD Mentor, WPI**: 2022--2026
  - Mentor undergraduate Data Science / Computer Science capstone projects
  - Mentor high school ML/AI research projects at Massachusetts Academy of Math and Science (Mass Academy) 
 
 
 **Volunteer Mentor for *Hack for Human Impact* Event, Massachusetts Technology Collaborative**: 2025
 
-**Volunteer Judge for Mass Academy STEM Fair, [Mass Academy](https://www.massacademy.org/)**:  2023–2026 
+**Volunteer Judge for Mass Academy STEM Fair, [Mass Academy](https://www.massacademy.org/)**:  2023--2026 
 
-**Volunteer for Data Science Accepted Student’s Day, WPI**: 2022-2023  
+**Volunteer for Data Science Accepted Student’s Day, WPI**: 2022--2023  
 
 **Led PyTorch Workshop for Undergrads, WPI**:  2022  
 
@@ -40,11 +40,11 @@ author_profile: true
 ---
 
 ## Teaching & Tutoring
-**Data Science TA, WPI**: 2022 - 2024
+**Data Science TA, WPI**: 2022--2024
 
-**TA for Pre-College Outreach Program, WPI**: 2019-2020
+**TA for Pre-College Outreach Program, WPI**: 2019--2020
 - Assisted in running two summer courses for middle and high school students interested in CS.
 
-**Math PLA & Tutoring Center Volunteer, WPI**: 2020-2021 
+**Math PLA & Tutoring Center Volunteer, WPI**: 2020--2021 
 
 
