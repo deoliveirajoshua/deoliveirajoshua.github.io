@@ -9,7 +9,8 @@ author_profile: true
 {% include base_path %}
 
 ## Conferences and Workshops
-- **Program Committee Member**, AAAI 2026
+I have served as a reviewer for AAAI (2025-Present), CIKM (2026-Present), and TMLR (2026-Present)
+
 
 ---
 
