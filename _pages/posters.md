@@ -11,7 +11,6 @@ redirect_from:
 
 {% include base_path %}
 
-**I am currently looking for internships in summer 2026!**
 
 ### Publications with posters:
 

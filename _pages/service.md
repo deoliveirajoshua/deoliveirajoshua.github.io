@@ -8,9 +8,19 @@ author_profile: true
 
 {% include base_path %}
 
-## Conferences and Workshops
-I serve as a reviewer for AAAI (2025-Present), CIKM (2026-Present), and TMLR (2026-Present)
+## Journal Reviewership
 
+**Transactions on Machine Learning Research (TMLR)**
+    -   *Duration:* 2026 – Present
+    -   *Domain Focus:* Neural Tangent Kernels (NTKs)
+
+## Program Committee Member / Conference Reviewer
+
+**AAAI Conference on Artificial Intelligence (AAAI)**
+    -   Main Track: 2025, 2026
+
+**ACM International Conference on Information and Knowledge Management (CIKM)**
+    -   Main Track: 2026
 
 ---
 
