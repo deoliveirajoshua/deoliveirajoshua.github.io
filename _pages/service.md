@@ -11,16 +11,16 @@ author_profile: true
 ## Journal Reviewership
 
 **Transactions on Machine Learning Research (TMLR)**
-    -   *Duration:* 2026 – Present
-    -   *Domain Focus:* Neural Tangent Kernels (NTKs)
+ - *Duration:* 2026 – Present
+ - *Domain Focus:* Neural Tangent Kernels (NTKs)
 
 ## Program Committee Member / Conference Reviewer
 
 **AAAI Conference on Artificial Intelligence (AAAI)**
-    -   Main Track: 2025, 2026
+ - Main Track: 2025, 2026
 
 **ACM International Conference on Information and Knowledge Management (CIKM)**
-    -   Main Track: 2026
+ - Main Track: 2026
 
 ---
 
