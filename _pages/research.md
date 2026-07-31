@@ -25,6 +25,6 @@ While timely intervention is the most effective way to prevent student stop-out,
 
 #### Assets & Artifacts
 
-* **[WPI Planner Interactive](https://deoliveirajoshua.github.io/wpi_planner_interactive/)**: An interactive academic planning tool and research artifact designed to visualize student course trajectories and support early-intervention advising workflows.
+* **[Interactive WPI Course Planner](https://deoliveirajoshua.github.io/wpi_planner_interactive/)**: An interactive academic planning tool and research artifact designed to visualize course information and pre-requisite relationships to support students in course enrollment as well as faculty and academic advisors in quickly identifying course sequencing paths and potential academic roadblocks.
 
 
