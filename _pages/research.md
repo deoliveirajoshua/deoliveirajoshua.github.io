@@ -15,6 +15,7 @@ I research deep learning optimization techniques and neural net training dynamic
 
 Modern deep learning models with billions or trillions of learnable parameters have expanded the capabilities of what complex tasks are possible to learn. However, as model sizes grow towards becoming more heavily overparameterized, training these models becomes a herculean task: requiring immense compute resources, multiple months of training, and potentially hundreds of millions of dollars.  My work aims to alleviate these burdens to be able to train models cheaply without jeopardizing downstream performance.
 
+---
 
 ### AI for Improving Student Success & Retention
 
