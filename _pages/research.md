@@ -22,3 +22,8 @@ I research novel generative modeling techniques for the early-identification of 
 
 While timely intervention is the most effective way to prevent student stop-out, traditional institutional processes rely on fragmented, manual reviews that often flag concerns only after a student has undergone significant struggle. My research aims to provide better early-identification of at-risk students, and forecast adverse academic outcomes in a student's academic career. By reducing the cognitive load on advising teams through automated early-warning systems, this work enables human experts to shift their focus from manual data parsing to delivering personalized, qualitative support.
 
+#### Assets & Artifacts
+
+* **[WPI Planner Interactive](https://deoliveirajoshua.github.io/wpi_planner_interactive/)**: An interactive academic planning tool and research artifact designed to visualize student course trajectories and support early-intervention advising workflows.
+
+
