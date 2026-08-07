@@ -17,6 +17,8 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 ## Recent News
 
+- **Aug 26** : First author paper on a platform for AI-driven early warning predictions in higher education accepted @ CIKM 2026.  
+
 - **Nov 25**: First author paper on how NTK-inspired data augmentations can effect neural net training accepted @ AAAI 2026.
 
 - **Dec 24**: First author paper on the applicability of theory relating to infinitely-large neural nets for improving real model training accepted @ AAAI 2025.
@@ -29,6 +31,19 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 
 ## Select Publications
+
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <div style="flex-shrink: 0; margin-right: 15px;">
+    <img src="..\images\demo_cikm_2026.jpg" alt="Thumbnail figure for CIKM 2026 Demo-Track Paper" width="300px">
+  </div>
+  <div>
+    <strong><a href="https://deoliveirajoshua.github.io/publications/">Flagger: A Platform for Operationalizing AI-Driven Early Warning Predictions to Find Personalized Interventions Faster</a></strong><br>
+    <strong>Joshua DeOliveira</strong>, Ajay Bhagavatula, Emily Perlow, Arne Gericke, Ermal Toto, Elke Rundensteiner.<br>
+    <strong>(To Appear In) CIKM, 2026.</strong>
+  </div>
+</div>
+
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
@@ -41,6 +56,8 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
     <strong> (To Appear In) AAAI, 2026.</strong>
   </div>
 </div>
+
+---
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
   <div style="flex-shrink: 0; margin-right: 15px;">
