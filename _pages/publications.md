@@ -6,7 +6,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-I have first-author publications in AAAI and Big Data.
+I have first-author publications in AAAI, CIKM, and Big Data.
 
 <div class="wordwrap">You can also find a full list of my publications on my <a href="{{site.author.googlescholar}}">Google Scholar page</a>.</div>
 
