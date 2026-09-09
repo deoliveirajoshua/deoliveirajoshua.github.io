@@ -51,9 +51,9 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
     <img src="..\images\ntk_augmentation_aaai_2026.png" alt="Thumbnail figure for AAAI 2026 Paper" width="300px">
   </div>
   <div>
-    <strong><a href="https://deoliveirajoshua.github.io/publications/">Neural Tangent Kernels Under Stochastic Data Augmentation</a></strong><br>
+    <strong><a href="https://doi.org/10.1609/aaai.v40i25.39214">Neural Tangent Kernels Under Stochastic Data Augmentation</a></strong><br>
     <strong>Joshua DeOliveira</strong>, Sajal Chakroborty, Walter Gerych, Elke Rundensteiner.<br>
-    <strong> (To Appear In) AAAI, 2026.</strong>
+    <strong> AAAI, 2026.</strong>
   </div>
 </div>
 
@@ -64,7 +64,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
     <img src="..\images\ntk_aaai_2025.png" alt="Thumbnail figure for AAAI 2025 Paper" width="300px">
   </div>
   <div>
-    <strong><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33786">The Surprising Effectiveness of Infinite-Width NTKs for Characterizing and Improving Model Training</a></strong><br>
+    <strong><a href="https://doi.org/10.1609/aaai.v39i15.33786">The Surprising Effectiveness of Infinite-Width NTKs for Characterizing and Improving Model Training</a></strong><br>
     <strong>Joshua DeOliveira</strong>, Walter Gerych, Elke Rundensteiner.<br>
     <strong>AAAI, 2025.</strong>
   </div>
