@@ -31,7 +31,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 - **May 23**: Joining <a href= "https://www.topologe.com/">Topologe</a> for a second summer as a research intern working on adversarial attacking, as well as novel ways of featurizing long-form text.
 
-- **May 22**: Joining <a href= "https://www.topologe.com/">Topologe</a> this summer as a research intern working on perturbation modeling and adversarial attacking against white-box computer vision models.
+- **May 22**: Joining <a href= "https://www.topologe.com/">Topologe</a>  as a summer research intern working on perturbation modeling and adversarial attacking against white-box computer vision models.
 
 
 ## Select Publications
