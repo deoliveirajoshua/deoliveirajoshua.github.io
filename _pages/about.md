@@ -29,6 +29,10 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 - **Sept 23**: Won first place award at the <a href="https://www.challenge.gov/?challenge=appliedaichallengellms&tab=winners">US Gov's GSA's Applied AI Challenge in LLMS</a> with <a href= "https://www.topologe.com/">Topologe</a> for detecting long-form generated text from blackbox LLMs.
 
+- **May 23**: Joining <a href= "https://www.topologe.com/">Topologe</a> for a second summer as a research intern working on adversarial attacking, as well as novel ways of featurizing long-form text.
+
+- **May 22**: Joining <a href= "https://www.topologe.com/">Topologe</a> this summer as a research intern working on perturbation modeling and adversarial attacking against white-box computer vision models.
+
 
 ## Select Publications
 
