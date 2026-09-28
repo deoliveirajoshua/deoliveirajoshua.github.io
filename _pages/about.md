@@ -17,7 +17,9 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 ## Recent News
 
-- **Aug 26** : First author paper on a platform for AI-driven early warning predictions in higher education accepted @ CIKM 2026.  
+- **Oct 26**: Joining <a href= "https://nttdata-aivista.com/">NTT DATA AIVISTA</a> this fall as an AI scientist intern.
+
+- **Aug 26**: First author paper on a platform for AI-driven early warning predictions in higher education accepted @ CIKM 2026.
 
 - **Nov 25**: First author paper on how NTK-inspired data augmentations can effect neural net training accepted @ AAAI 2026.
 
