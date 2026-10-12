@@ -28,7 +28,7 @@ author_profile: true
  - Mentor undergraduate Data Science / Computer Science capstone projects
  - Mentor high school ML/AI research projects at Massachusetts Academy of Math and Science (Mass Academy) 
 
-**Volunteer Mentor for *Human Edge: Work, Identity, and Opportunity in the Age of AI*, Massachusetts Technology Collaborative**: 2026
+**Volunteer Mentor for *Human Edge: Work, Identity, and Opportunity in the Age of AI*, Mass. Tech. Collaborative**: 2026
 
 **Volunteer Mentor for *Hack for Human Impact* Event, Massachusetts Technology Collaborative**: 2025
 
