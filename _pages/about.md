@@ -19,7 +19,7 @@ I’m a PhD candidate at Worcester Polytechnic Institute (WPI) in the [DAISY Lab
 
 - **Oct 26**: Joining <a href= "https://nttdata-aivista.com/">NTT DATA AIVISTA</a> this fall as an AI scientist intern.
 
-- **Sept 26**: Workshop paper on a novel approach to architecture-preconditioned optimization accepted @ NeurIPS's OPT 2026.
+- **Sept 26**: Workshop paper on a novel approach to architecture-preconditioned optimization accepted @ NeurIPS's OPT 2026. Check out the new <a href="https://github.com/deoliveirajoshua/torchtangents">torchtangents</a> package on GitHub.
 
 - **Aug 26**: First author paper on a platform for AI-driven early warning predictions in higher education accepted @ CIKM 2026.
 
